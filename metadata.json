@@ -1,0 +1,17 @@
+{
+    "name" : "MEMOIRE DE SOIE",
+    "description": "Costumes et parures de Palestine et de Jordanie",
+    "image" : "https://rose-junior-cardinal-547.mypinata.cloud/ipfs/{Replace with your CID}/2.PNG",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 10,
+            "max_value": 10
+        }
+    ]
+}
